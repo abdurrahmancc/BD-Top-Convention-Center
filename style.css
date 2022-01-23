@@ -1,0 +1,29 @@
+/* font family */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;600;700;800;900&family=Roboto:wght@400;500;700&display=swap");
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+.bebas {
+  font-family: "Bebas Neue", cursive;
+}
+.carousel-1 {
+  background-image: url(images/carousel-1.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+.carousel-2 {
+  background-image: url(images/carousel-2.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+.carousel-3 {
+  background-image: url(images/carousel-3.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+.buttons:hover {
+  color: white important!;
+}
