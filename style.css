@@ -29,8 +29,7 @@ body {
 }
 .mid-col {
   height: 520px !important;
-  max-width: 300px;
-  padding-left: 50px !important;
+  min-width: 250px;
 }
 .notification {
   position: relative;
