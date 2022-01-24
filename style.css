@@ -3,8 +3,11 @@
 .poppins {
   font-family: "Poppins", sans-serif;
 }
-.bebas {
-  font-family: "Bebas Neue", cursive;
+body {
+  font-family: "Poppins", sans-serif;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
 }
 .carousel-1 {
   background-image: url(images/carousel-1.jpg);
@@ -23,4 +26,17 @@
   background-repeat: no-repeat;
   height: 100vh;
   background-size: cover;
+}
+.mid-col {
+  height: 520px !important;
+  max-width: 300px;
+  padding-left: 50px !important;
+}
+.notification {
+  position: relative;
+  bottom: -35px;
+  left: 230px;
+}
+.footer-bg {
+  background-color: #120e43;
 }
